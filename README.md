@@ -1,0 +1,1 @@
+This is a speech to text codebase using faster-whisper
